@@ -98,7 +98,7 @@ Ejecutar todas las celdas para visualizar el dashboard con Plotly.
 ---
 
 ## 👥 Autor
-**Nombre:** _[Tu nombre o grupo]_  
+**Nombre:** Pablo Lujan_  
 **Curso:** Programación Avanzada en Ciencia de Datos  
 **Institución:** GCBA
 
